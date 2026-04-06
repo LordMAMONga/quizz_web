@@ -90103,7 +90103,7 @@ var $async$w2=A.N(function(a,b){if(a===1)return A.J(b,r)
 for(;;)switch(s){case 0:o=A
 n=J
 s=3
-return A.Q(p.a.oT(0,"/api/students/timer",t.z),$async$w2)
+return A.Q(p.a.oT(0,"/api/students/timer/quiz",t.z),$async$w2)
 case 3:q=o.eN(n.cw(b.a),null)
 s=1
 break
