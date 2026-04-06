@@ -89742,7 +89742,7 @@ wa(a){return this.a07(a)},
 a07(a){var s=0,r=A.M(t.H),q,p,o
 var $async$wa=A.N(function(b,c){if(b===1)return A.J(c,r)
 for(;;)switch(s){case 0:p=t.z
-o=t.PG.a($.yi().pC("quizzBox",!1,p))
+o=t.PG.a($.yi().pC("quizBox",!1,p))
 s=3
 return A.Q(o.Ki(A.ax(["quizQuestions",a],p,o.$ti.c)),$async$wa)
 case 3:q=c
