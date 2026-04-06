@@ -26498,11 +26498,11 @@ q.Kt(new A.Pl(),o)
 n=t.KP
 q.Kt(new A.Ln(),n)
 s=3
-return A.Q(q.qS("playerBox",p),$async$tg)
+return A.Q(q.qS("playerbox",p),$async$tg)
 case 3:s=4
-return A.Q(q.qS("quizBox",o),$async$tg)
+return A.Q(q.qS("quizbox",o),$async$tg)
 case 4:s=5
-return A.Q(q.qS("crosswordBox",n),$async$tg)
+return A.Q(q.qS("crosswordbox",n),$async$tg)
 case 5:s=6
 return A.Q(A.aAW(),$async$tg)
 case 6:n=$.az()
